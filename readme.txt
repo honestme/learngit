@@ -5,3 +5,4 @@ Git is easy to use.
 Git tracks changes.
 My boss still prefer stupid SVN.
 Creating a new branch is quick.
+Creating a new branch is quick AND simple.
